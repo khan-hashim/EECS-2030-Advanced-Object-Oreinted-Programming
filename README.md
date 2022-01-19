@@ -1,2 +1,1 @@
-# EECS1022-W21-workspace
-The repository was first created in january 11,2021
+# EECS-2030 Advanced Object Oriented Programming
